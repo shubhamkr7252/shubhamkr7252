@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhamkr7252
+- 👋 Hi, I’m Shubham Kumar
 - 👀 I’m interested in Mobile and Web Development
 - 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on Mobile and Web Deveopment
